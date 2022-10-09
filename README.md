@@ -1,2 +1,4 @@
-# Algebra-Lineal-ML
-Ejercicios que se realizaron durante el curso de algebra lineal para machine learning de Platzi
+# Curso de Algebra Lineal para Machine Learning
+Aquí se encuentran todos los ejercicios en notebooks con mis apuntes sobre el curso de Platzi.
+
+$ x = \frac_{a}{b} $
